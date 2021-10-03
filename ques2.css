@@ -1,0 +1,38 @@
+h1{
+    
+    width: 300px;
+    height: 40px;
+    background-color: red;
+    text-align: center; 
+    margin: auto;  
+    font-size: large;
+    color: white;
+}
+p{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+     color:white;
+}
+body
+{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+img {
+    border-radius: 25%;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 400px;
+    margin-bottom: 120px;
+    height: 60;
+    width: 100;
+    border-color: red;
+    border-width: 3px;
+    border-style: ridge;
+  }
+  
+
+    
+
